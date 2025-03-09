@@ -70,22 +70,8 @@ We experimented with several algorithms, including:
 2. **Enhanced Feature Engineering**: Incorporate additional external factors such as air traffic congestion.
 3. **Optimization Techniques**: Improve model efficiency and generalization.
 
-## How to Use
-### Requirements
-Install dependencies using:
-```bash
-pip install -r requirements.txt
-```
 
-### Running the Model
-```bash
-python flight_delay_prediction.py
-```
 
-### Using the GUI
-```bash
-python gui.py
-```
 
 ## References
 1. Research papers and methodologies referenced in the full project report.
